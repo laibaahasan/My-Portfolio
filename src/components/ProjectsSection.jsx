@@ -8,7 +8,7 @@ const projects = [
       "A full-stack MERN application with patient, doctor, and admin roles, secure authentication, profile management, and Razorpay payment integration.",
     image: "/projects/project1.jpg", // replace with your screenshot
     tags: ["React", "Node.js", "Express", "MongoDB", "Razorpay"],
-    demoUrl: "https://prescripto.vercel.app", // update if hosted
+    demoUrl: "#", // update if hosted
     githubUrl: "https://github.com/laibaahasan/Prescripto",
   },
   {
